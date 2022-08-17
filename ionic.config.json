@@ -1,0 +1,7 @@
+{
+  "name": "froged-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
